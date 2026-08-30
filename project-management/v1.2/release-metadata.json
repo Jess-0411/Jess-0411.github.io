@@ -1,0 +1,21 @@
+{
+  "schema": 1,
+  "version": "1.2",
+  "tag": "v1.2.0",
+  "releaseDate": "2026-08-30",
+  "basePath": "/project-management/v1.2",
+  "storageKey": "education-project-lifecycle-prototype-v3",
+  "selector": "/project-management/",
+  "schoolEntry": "/project-management/v1.2/project-management/school/?view=overview",
+  "bureauEntry": "/project-management/v1.2/project-management/bureau/?view=overview",
+  "frozenHistory": [
+    {
+      "file": "v1.0/project.html",
+      "blob": "68ed6b17ae27c47c9c41eeb348400897ed6ab84b"
+    },
+    {
+      "file": "v1.1/project.html",
+      "blob": "b2343d357959e0c5f3b252405c8a58a49b4f794f"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>项目管理 V1.2 版本说明</title>
+  <style>body{margin:0;background:#f3f7fc;color:#17243c;font:14px/1.8 "Microsoft YaHei","PingFang SC",Arial,sans-serif}.page{width:min(900px,calc(100% - 32px));margin:36px auto;background:#fff;border:1px solid #dfe7f1;border-radius:12px;padding:30px 36px;box-shadow:0 12px 35px rgba(36,63,105,.08)}h1{margin:0 0 8px;font-size:26px}h2{margin:28px 0 8px;font-size:18px}p,li{color:#54627a}a{color:#1769e8;text-decoration:none}.tag{display:inline-flex;padding:2px 9px;border-radius:12px;background:#e9f8f2;color:#15855d;font-size:12px}.actions{display:flex;gap:18px;margin-top:28px;padding-top:18px;border-top:1px solid #e7edf4}</style>
+</head>
+<body>
+  <main class="page">
+    <span class="tag">当前版本</span>
+    <h1>项目管理 V1.2 版本说明</h1>
+    <p>发布日期：2026-08-30 · 技术发布标签：v1.2.0</p>
+    <h2>本次重构</h2>
+    <ul>
+      <li>学校项目与教育局直属项目统一覆盖立项、设计、会议、采购、合同、开工、进度、付款、发票、验收和归档 11 个阶段。</li>
+      <li>学校端与教育局端使用七组一致的信息架构，并按项目来源、经办主体和审批节点控制查看与维护权限。</li>
+      <li>设计版本、会议、采购、合同、进度、付款和发票支持多记录维护；采购、合同、付款和发票具备上下游引用及金额限制。</li>
+      <li>立项、设计、采购、开工、付款、验收和归档按单笔记录执行学校／教育局审批，支持通过、退回申请人和退回上一节点。</li>
+      <li>项目编号改为经办人手工必填并统一校验唯一；已审批业务只读，退回记录允许修改重提。</li>
+      <li>保留 V1.1“更新采购”能力，并校验公告、投标、中标时间顺序和中标金额。</li>
+      <li>按确认脑图配置 21 项所需文件，各阶段支持补充附件；文件仅保存元数据和临时预览信息。</li>
+      <li>归档缺项仅汇总提示，经二次确认仍可提交；归档审批通过后项目整体只读。</li>
+      <li>前端存储升级为 schema v3，保留旧项目、审批轨迹和附件，并提供一键重置演示数据。</li>
+    </ul>
+    <h2>数据隔离</h2>
+    <p>V1.2 使用 <code>education-project-lifecycle-prototype-v3</code> 独立存储键，不读取或覆盖 V1.0、V1.1 演示数据；V1.2 内学校端和教育局端共享同一份浏览器数据。</p>
+    <h2>原型限制</h2>
+    <p>本版本为纯前端静态交互原型，不包含真实后端、数据库、登录鉴权、文件服务器、支付、发票查验和第三方接口。</p>
+    <div class="actions"><a href="./">进入 V1.2</a><a href="../">返回项目管理版本选择</a></div>
+  </main>
+</body>
+</html>
