@@ -1,10 +1,10 @@
 {
   "schema": 1,
   "version": "1.2",
-  "tag": "v1.2.1",
-  "releaseDate": "2026-08-30",
+  "tag": "v1.2.2",
+  "releaseDate": "2026-08-31",
   "basePath": "/project-management/v1.2",
-  "storageKey": "education-project-lifecycle-prototype-v5",
+  "storageKey": "education-project-lifecycle-prototype-v6",
   "selector": "/project-management/",
   "schoolEntry": "/project-management/v1.2/project-management/school/?view=overview",
   "bureauEntry": "/project-management/v1.2/project-management/bureau/?view=overview",
