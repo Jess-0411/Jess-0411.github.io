@@ -1,0 +1,93 @@
+{
+  "module": "project",
+  "repository": "Jess-0411/Jess-0411.github.io",
+  "prefix": "project-management/",
+  "url": "https://jess-0411.github.io/project-management/",
+  "files": [
+    {
+      "path": "project-management/bureau/index.html",
+      "bytes": 657,
+      "sha256": "1519697477844d58634610b632c69001ea455a1aaabc46cd912ff2b45889c0b9"
+    },
+    {
+      "path": "project-management/index.html",
+      "bytes": 5544,
+      "sha256": "7ba95099cdb1020036074ec6b67657cc6de6da26485def2cc9f58e8d40cfe08d"
+    },
+    {
+      "path": "project-management/school/index.html",
+      "bytes": 657,
+      "sha256": "747004441eae7a1d7ae451d3f64b3370c13555f905c37bd8d38ace8bde55bf23"
+    },
+    {
+      "path": "project-management/v1.0/assets/project-management-logo.png",
+      "bytes": 958452,
+      "sha256": "6d858dae7442561d7eadd6e68a25ab12375d30a88d414733a44b837920620ed7"
+    },
+    {
+      "path": "project-management/v1.0/index.html",
+      "bytes": 660,
+      "sha256": "1c2a23c3f94630b0359cafd2378a0fac925b0bf17a44bde1376338c31e3b8e11"
+    },
+    {
+      "path": "project-management/v1.0/project.html",
+      "bytes": 1215896,
+      "sha256": "b75c81ff39a24c33b43561472c44257be3f530760ea53a0cd0c957cc1ea229f0"
+    },
+    {
+      "path": "project-management/v1.0/release-notes.html",
+      "bytes": 3616,
+      "sha256": "7c27e3022f77d243975486962faf53d2b317a87029e53fb79b793b50eaf94668"
+    },
+    {
+      "path": "project-management/v1.1/assets/project-management-logo.png",
+      "bytes": 958452,
+      "sha256": "6d858dae7442561d7eadd6e68a25ab12375d30a88d414733a44b837920620ed7"
+    },
+    {
+      "path": "project-management/v1.1/index.html",
+      "bytes": 660,
+      "sha256": "04bc24bb47cfd921ee6a54890fef9a60dc97d7d52d2db1592219f9de9523e6e0"
+    },
+    {
+      "path": "project-management/v1.1/project.html",
+      "bytes": 1418723,
+      "sha256": "39cba3c77b70bb60db20a989ed3f602ddf608e43d4c430d424dde7cc676efc3d"
+    },
+    {
+      "path": "project-management/v1.1/release-notes.html",
+      "bytes": 3647,
+      "sha256": "722ad872420739a57e836d565207ddb817104bfe6845d15ce4ea05d822ca6933"
+    },
+    {
+      "path": "project-management/v1.2/index.html",
+      "bytes": 2849384,
+      "sha256": "00f5d5119d95ce4bb0ca45f4d4b53b4912ceb292c5eeb319c49d411f0c6680f6"
+    },
+    {
+      "path": "project-management/v1.2/project-management/bureau/index.html",
+      "bytes": 668,
+      "sha256": "1b29d40dc31519a5f0356e72d0ebb650776b83bbf71e08aa86a7519d5833ec54"
+    },
+    {
+      "path": "project-management/v1.2/project-management/school/index.html",
+      "bytes": 668,
+      "sha256": "41284005f69134baaf4a2f3f29f6e5b9b7442835f861a4ecc22029938a74a8ce"
+    },
+    {
+      "path": "project-management/v1.2/project.html",
+      "bytes": 2849384,
+      "sha256": "00f5d5119d95ce4bb0ca45f4d4b53b4912ceb292c5eeb319c49d411f0c6680f6"
+    },
+    {
+      "path": "project-management/v1.2/release-notes.html",
+      "bytes": 3716,
+      "sha256": "dff6c3b72316771672a7ec1d28f40494e4267295f29c841c08ddddfc53462f07"
+    },
+    {
+      "path": "project-management/v1.2/release-metadata.json",
+      "bytes": 830,
+      "sha256": "74dfbcb636e232ad64db838c7c12a2006345468f76061efde2057d49c3bf6859"
+    }
+  ]
+}

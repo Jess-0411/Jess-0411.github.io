@@ -1,1 +1,0 @@
-{"redirect":"/project-management/v1.2/project.html?portal=bureau&view=projects"}
