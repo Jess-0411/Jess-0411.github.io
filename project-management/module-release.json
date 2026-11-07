@@ -11,8 +11,8 @@
     },
     {
       "path": "project-management/index.html",
-      "bytes": 5667,
-      "sha256": "260dd72e65fd2149455a13b37295817434ecd8e6cec902918aa07af916f74e33"
+      "bytes": 5820,
+      "sha256": "5d2634de8200532e2d6ce5a7f6a19ab07feac8ed26e2847dd3086bdb175596fd"
     },
     {
       "path": "project-management/school/index.html",
@@ -31,13 +31,13 @@
     },
     {
       "path": "project-management/v1.0/project.html",
-      "bytes": 3474302,
-      "sha256": "a1a8e294b2ac3efa1253c06fac85c72d44bce1dbbe478a2fbeb1456319a4ea7b"
+      "bytes": 3474383,
+      "sha256": "f8aa2cf13e04eb1047c395b826f0e7bc8774a39226eeb783e5f1f761257e603e"
     },
     {
       "path": "project-management/v1.0/release-notes.html",
-      "bytes": 3914,
-      "sha256": "e1d21a413b1b86b0e4563cee02ccb4ef4ffd4000d9a4a928d64b2451d85dce8b"
+      "bytes": 3892,
+      "sha256": "3678fc4680ae6d507ba4e520d55c14e25505461cbedba88735946ea52c5fb490"
     },
     {
       "path": "project-management/v1.1/assets/project-management-logo.png",
