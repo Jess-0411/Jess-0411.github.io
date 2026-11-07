@@ -31,13 +31,13 @@
     },
     {
       "path": "project-management/v1.0/project.html",
-      "bytes": 3241347,
-      "sha256": "0ce405fe0263aa04e442c8dd50fd551e62f2de4d57e9f6c3cd75f31b76104d17"
+      "bytes": 3243037,
+      "sha256": "60d79bb0781a71ce2a4e1029807b2b66ef729ff77bce458c23c0afb0c925af44"
     },
     {
       "path": "project-management/v1.0/release-notes.html",
-      "bytes": 3739,
-      "sha256": "b37fd4b15b55def80038025e6425854b6cacbbebb2ab1de7fd2967428809213b"
+      "bytes": 3914,
+      "sha256": "e1d21a413b1b86b0e4563cee02ccb4ef4ffd4000d9a4a928d64b2451d85dce8b"
     },
     {
       "path": "project-management/v1.1/assets/project-management-logo.png",
